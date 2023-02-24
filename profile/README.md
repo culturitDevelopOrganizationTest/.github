@@ -1,4 +1,4 @@
-### Welcome to the Culturit organization 👋
+# Welcome to the Culturit organization 👋
 
 <!--
 
